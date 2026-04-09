@@ -17,7 +17,7 @@ open tictactoe.html    # macOS
 
 ## Git & GitHub
 
-All changes should be committed with clear messages and pushed to GitHub (`supersheed/tic-tac-toe`) to maintain a version history.
+Commit and push to GitHub (`supersheed/tic-tac-toe`) regularly throughout work — after each meaningful change, not just at the end. This ensures progress is never lost and any state can be reverted to. Use concise, descriptive commit messages that reflect what changed and why.
 
 ## Architecture
 

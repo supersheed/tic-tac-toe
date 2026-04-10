@@ -1,2 +1,3 @@
-# Claude Code internal files
-.claude/
+# Claude Code internal files (ignore internals, keep commands)
+.claude/*
+!.claude/commands/

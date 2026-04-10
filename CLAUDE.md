@@ -2,9 +2,26 @@
 
 This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.
 
+## About Me
+
+I build agents and skills that automate everyday routine tasks. My focus is on increasing productivity through automated, programmatic solutions that eliminate repetitive manual work — turning mundane workflows into hands-off processes.
+
 ## Project Overview
 
-A single-file browser Tic Tac Toe game. No build system, no dependencies, no package manager — everything is plain HTML, CSS, and JavaScript in `tictactoe.html`.
+This is my Agent workspace. I use it for research, content creation and productivity workflows. 
+
+## Rules
+- Always ask for clarification if you are not sure about the task.
+- Always provide a plan of action before executing the task.
+- Always provide a list of tools that can be used to complete the task.
+- Keep reports and summaries concise and to the point.
+- Use bullet points over paragraphs
+- Save all output files to the output folder
+- Cite sources when doing research
+- Always provide a summary of the task after it is complete.
+- Always provide a feedback on the task after it is complete.
+- Always provide a score on the task after it is complete.
+
 
 ## Running the Game
 
